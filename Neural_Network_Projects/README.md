@@ -36,7 +36,7 @@
 
 ## Ознакомительные скриншоты
 
-![Скриншот 1](./Neural_Network_Projects/1.png)
-![Скриншот 2](./Neural_Network_Projects/2.png)
-![Скриншот 3](./Neural_Network_Projects/3.png)
+![Скриншот 1](1.png)
+![Скриншот 2](2.png)
+![Скриншот 3](3.png)
 
