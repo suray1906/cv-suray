@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619077944 source:c:\users\su_us\desktop\лаб 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<locale>
+
