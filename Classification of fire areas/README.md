@@ -136,6 +136,4 @@
 Окно визуализации:
 ![Screenshot 2](vislstn.png)
 
-Итоговое изображение:
-![Screenshot 3](contour.png)
 
