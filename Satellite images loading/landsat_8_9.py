@@ -4,7 +4,8 @@ from datetime import datetime, timedelta
 
 # Initialize Google Earth Engine
 ee.Authenticate()
-ee.Initialize(project='ee-suray1906firefire')
+ee.Initialize(project='') #Add name of your project
+
 
 
 def load_and_filter_image_collection(row):
